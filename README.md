@@ -11,10 +11,9 @@ As a data analyst, I am passionate about uncovering insights that help businesse
 ## 🌱 What I'm currently learning:
 
 - R Programming Language
-- Create Dashboard with Tableau
+- Tableau
 - Figma
 - Automating Real-World Tasks with Python
-- Ask, Prepare, Process, Analyze, and Share
 
 ## 📫 How to reach me:
 
@@ -26,6 +25,7 @@ As a data analyst, I am passionate about uncovering insights that help businesse
 - Structured Query Language (SQL)
 - Google Cloud
 - Azure Data Studio
+- Visual Studio Code
 - Python programming language
 - Power BI & Power Servers
 - R programming language
@@ -38,5 +38,5 @@ As a data analyst, I am passionate about uncovering insights that help businesse
 
 - [Google Data Analytics Certificate]()
 - [Python (Basic) Certificate](https://www.hackerrank.com/certificates/90bb76329096)
-- [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/50fc517ec4f0)
+- [Problem-Solving (Basic) Certificate](https://www.hackerrank.com/certificates/50fc517ec4f0)
 - [SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/b94abb3d1459)
