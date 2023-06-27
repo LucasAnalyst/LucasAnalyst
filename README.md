@@ -35,7 +35,7 @@ As a data analyst, I am passionate about uncovering insights that help businesse
 -->
 ## 🏆 Certifications:
 
-- [Google Data Analytics Certificate]()
+- [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4YFA6C82ER9D)
 - [Python (Basic) Certificate](https://www.hackerrank.com/certificates/90bb76329096)
 - [Problem-Solving (Basic) Certificate](https://www.hackerrank.com/certificates/50fc517ec4f0)
 - [SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/b94abb3d1459)
