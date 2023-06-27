@@ -1,11 +1,11 @@
 # About me 👦
 # Hi there, I'm Tran Huu Tien 👋
 
-As a data analyst, I am passionate about uncovering insights that help businesses make informed decisions. My expertise includes data analysis and visualization using tools such as Excel and Tableau, as well as SQL for querying and manipulating large datasets. With a focus on data-driven decision-making, I have helped organizations achieve greater efficiency and profitability through the power of data.
+As a data analyst, I am passionate about uncovering insights that help businesses make informed decisions. My expertise includes data analysis and visualization using tools such as  Excel, Power BI, Tableau, and Python programming language, as well as SQL for querying and manipulating large datasets. With a focus on data-driven decision-making, to help organizations achieve greater efficiency and profitability through the power of data.
 
 ## 🔍 What I'm currently working on:
 
-- [Cyclistic bike-share analysis]()
+- [Cyclistic bike-share analysis](https://github.com/LucasAnalyst/Cyclistic_bike_share)
 - [Bellabeat product analysis]()
 
 ## 🌱 What I'm currently learning:
