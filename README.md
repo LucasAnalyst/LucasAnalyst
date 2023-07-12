@@ -6,6 +6,7 @@ As a data analyst, I am passionate about uncovering insights that help businesse
 ## 🔍 What I'm currently working on:
 
 - [Cyclistic bike-share analysis](https://github.com/LucasAnalyst/Cyclistic_bike_share)
+- Build Dynamic Sales Dashboard with Power BI Desktop
 - [Bellabeat product analysis]()
 
 ## 🌱 What I'm currently learning:
