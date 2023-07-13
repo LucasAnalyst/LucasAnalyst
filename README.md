@@ -14,7 +14,7 @@ As a data analyst, I am passionate about uncovering insights that help businesse
 - R Programming Language
 - Tableau
 - Figma
-- Automating Real-World Tasks with Python
+- Automating Real-World Tasks with Python(//Google professional certificate)
 
 ## 📫 How to reach me:
 
