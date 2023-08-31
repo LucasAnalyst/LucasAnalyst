@@ -13,9 +13,8 @@ As a data analyst, I am passionate about uncovering insights that help businesse
 
 - R Programming Language
 - Tableau
-- Figma
-- Automating Real-World Tasks with Python(//Google professional certificate)
-
+- Google IT Support
+- Google Digital Marketing & E-commerce
 ## 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-tran-496847244/)
@@ -29,6 +28,7 @@ As a data analyst, I am passionate about uncovering insights that help businesse
 - Visual Studio Code
 - Python programming language
 - Power BI & Power Servers
+- Figma
 - R programming language
 <!--
 ## 📈 GitHub stats:
