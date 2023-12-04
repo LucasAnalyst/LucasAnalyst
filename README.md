@@ -5,16 +5,15 @@ As a data analyst, I am passionate about uncovering insights that help businesse
 
 ## 🔍 What I'm currently working on:
 
-- [Cyclistic bike-share analysis](https://github.com/LucasAnalyst/Cyclistic_bike_share)
+- [Cyclistic bike-share analysis](https://github.com/LucasAnalyst/Cyclistic_bike_share) 
 - [Build Dynamic Sales Dashboard with Power BI Desktop](https://github.com/LucasAnalyst/Sales_Dashboard)
-- [Bellabeat product analysis]()
-
+- Azure Data Engineering Project
+- 
 ## 🌱 What I'm currently learning:
-
-- R Programming Language
-- Tableau
+- Airflow
 - Google IT Support
 - Google Digital Marketing & E-commerce
+- Azure Data Engineer
 ## 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-tran-496847244/)
@@ -24,7 +23,7 @@ As a data analyst, I am passionate about uncovering insights that help businesse
 
 - Structured Query Language (SQL)
 - Google Cloud
-- Azure Data Studio
+- Azure Data Studio, Azure Cloud Platform 
 - Visual Studio Code
 - Python programming language
 - Power BI & Power Servers
