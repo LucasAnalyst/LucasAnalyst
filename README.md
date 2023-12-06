@@ -7,13 +7,14 @@ As a data analyst, I am passionate about uncovering insights that help businesse
 
 - [Cyclistic bike-share analysis](https://github.com/LucasAnalyst/Cyclistic_bike_share) 
 - [Build Dynamic Sales Dashboard with Power BI Desktop](https://github.com/LucasAnalyst/Sales_Dashboard)
-- Azure Data Engineering Project
-- 
+- Airflow project: Data Pipeline with Cloud Azure Database
+  
 ## 🌱 What I'm currently learning:
 - Airflow
 - Google IT Support
 - Google Digital Marketing & E-commerce
 - Azure Data Engineer
+  
 ## 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-tran-496847244/)
