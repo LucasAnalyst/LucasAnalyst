@@ -30,10 +30,11 @@ As a data analyst, I am passionate about uncovering insights that help businesse
 - Power BI & Power Servers
 - Figma
 - R programming language
-  
+
+<!--
 ## 📈 GitHub stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAnalyst&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+-->>
 
 
 ## 🏆 Certifications:
