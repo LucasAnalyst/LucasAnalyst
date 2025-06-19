@@ -73,3 +73,4 @@ As a **Data Engineer**, I specialize in designing, building, and optimizing data
 
 - [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4YFA6C82ER9D)
 - Currently pursuing **Google Advanced Data Analytics** certification.
+- [SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/iframe/32a10066e6de)
